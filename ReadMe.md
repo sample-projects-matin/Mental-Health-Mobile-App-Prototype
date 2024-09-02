@@ -1,5 +1,5 @@
 
-# Mental Health Mobile App Prototype
+# Mental Health Mobile App Prototype (UI/UX)
 
 This project incorporates product development techniques and UI/UX design principles as part of FIT3175 Usability unit. 
 
